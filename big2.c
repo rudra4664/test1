@@ -4,7 +4,7 @@ biggest2()
 {
     int num1, num2;
     
-    printf("Enter first number: ");
+    printf("Enter first num: ");
     scanf("%d", &num1);
     
     printf("Enter second number: ");
